@@ -1,0 +1,101 @@
+Nome:Presa-Brava
+Classe:Aquisição
+Fraqueza:Dano de Choque
+Caldeirão:TAU
+
+Nome:Cavador
+Classe:Reconhecimento
+Fraqueza:Dano de Fogo
+Caldeirão:MU
+
+Nome:Rabote
+Classe:Aquisição
+Fraqueza:Dano de enxarque
+Caldeirão:CHI
+
+Nome:Garra Veloz
+Classe:Combate
+Fraqueza:Dano de Choque
+Caldeirão:IOTA
+
+Nome:Galhante
+Classe:Aquisição
+Fraqueza:Dano de Gelo
+Caldeirão:MU
+
+Nome:Arador
+Classe:Combate
+Fraqueza:Dano de Ácido
+Caldeirão:TAU
+
+Nome:Galgante
+Classe:Transporte
+Fraqueza:Dano de Enxarque
+Caldeirão:IOTA
+
+Nome:Arante
+Classe:Aquisição
+Fraqueza:Dano Ácido
+Caldeirão:TAU
+
+Nome:Rolador
+Classe:Transporte
+Fraqueza:Dano de Gelo
+Caldeirão:IOTA
+
+Nome:Rasante
+Classe:Reconhecimento
+Fraqueza:Dano de Gelo
+Caldeirão:IOTA
+
+Nome:Furafuca
+Classe:Aquisição
+Fraqueza:Dano de Fogo
+Caldeirão:CHI
+
+Nome:Chupim
+Classe:Aquisição
+Fraqueza: Dano de Ácido 
+Caldeirão:MU
+
+Nome:Bocalarga
+Classe:Aquisição
+Fraqueza:Dano de Enxarque
+Caldeirão:MU
+
+Nome:Agouro
+Classe:Combate
+Fraqueza:Dano de Fogo
+Caldeirão:KAPPA
+
+Nome:Tratuga
+Classe:Combate
+Fraqueza:Dano de Gelo
+Caldeirão:CHI
+
+Nome:Heliodo
+Classe:Aquisição
+Fraqueza:Dano da Água
+Caldeirão:GEMINI
+
+Nome:Rastejador
+Classe:Combate
+Fraqueza:Dano de Fogo
+Caldeirão:KAPPA
+
+Nome:Cortamares
+Classe:Aquisição
+Fraqueza:Dano de Choque
+Caldeirão:KAPPA
+
+Nome:Tremodonte
+Classe:Combate
+Fraqueza:Dano de Gelo
+Caldeirão:KAPPA
+
+Nome:Carnificina
+Classe:Combate
+Fraqueza:Dano de Gelo
+Caldeirão:KAPPA
+
+

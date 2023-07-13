@@ -1,0 +1,65 @@
+Nome: Cabra
+Encontrado na região Norte dos Ermos
+
+Nome: Guaxinim
+Encontrado na região de Pedra Funda
+
+Nome: Gaio
+Encontrado na região de Pedra Funda
+
+Nome: Esquilo
+Encontrado na região das florestas
+
+Nome: Raposa
+Encontrado na região das Montanhas Utaru
+
+Nome: Javali
+Encontrado em todos os biomas
+
+Nome: Rato
+Encontrado em todos os biomas
+
+Nome: Corvo
+Encontrado na região das Montanhas Utaru
+
+Nome: Carpa
+Encontrado em todos os rios
+
+Nome: Lagarto de Chifre
+Encontrado na região do deserto
+
+Nome: Escorpião 
+Encontrado na região do deserto
+
+Nome: Abutre
+Encontrado na região do deserto
+
+Nome: Cão da Pradaria
+Encontrado na região do Entorno de Lançardente
+
+Nome: Porco do Mato
+Encontrado nas Florestas
+
+Nome: Salmão
+Encontrado na região Regiões com neve
+
+Nome: Coruja
+Encontrado na regiã: Regiões com neve
+
+Nome: Coelho
+Encontrado em todos os biomas
+
+Nome: Ganso
+Encontrado na região do Entorno de  Salgaboca
+
+Nome: Pelicano
+Encontrado na região do mar
+
+Nome: Caranguejo
+Encontrado na região do mar
+
+Nome: Lagosta
+Encontrado na região do mar
+
+Nome: Robalo
+Encontrado na região do mar
